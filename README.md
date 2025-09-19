@@ -8,7 +8,7 @@ A simple Node.js project for generating and knowing random secrets.
 
 | Screenshot 1 | Screenshot 2 |
 |--------------|--------------|
-| ![Screenshot 1](rs1.png) | ![Screenshot 2](r2.png) |
+| ![Screenshot 1](rs1.png) | ![Screenshot 2](rs2.png) |
 
 ---
 
