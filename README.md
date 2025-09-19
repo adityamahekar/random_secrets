@@ -1,6 +1,6 @@
 # 🔑 Random Secrets
 
-A simple Node.js project for generating and knowing random secrets.
+A simple Node.js project using secrets API for generating and knowing random secrets.
 
 ---
 
