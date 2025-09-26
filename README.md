@@ -12,10 +12,6 @@ A simple Node.js project using secrets API for generating and knowing random sec
 
 ---
 
-## 🚀 Live Repository  
-👉 [Random Secrets on GitHub](https://github.com/adityamahekar/random_secrets.git)
-
----
 
 ## ⚡ Installation  
 
